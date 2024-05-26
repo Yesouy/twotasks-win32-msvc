@@ -22,7 +22,7 @@ FreeRTOS  [https://freertos.org] -- (압축 해제 위치 C:\Users\컴퓨터 이
 
 6. 프롬프트에 code . 적고 엔터
 
-7. Clone 레포지토리 눌러서 [https://github.com/vsserafim/twotasks-win32-msvc.git] 복붙하고 엔터
+7. Clone 레포지토리 눌러서 이거 git http 복붙하고 엔터
 
 8. 파일 탐색기 켜지면 원하는 경로에 프로젝트 폴더 생성하고 그곳에 select
 
